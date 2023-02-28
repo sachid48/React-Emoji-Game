@@ -171,7 +171,7 @@ Use these files to complete the implementation:
 
 > ### _Things to Keep in Mind_
 >
-> ### _Things to Keep in Mind_
+> ### _URL :https://sachidemojigame.ccbp.tech/_
 > - All components you implement should go in the `src/components` directory.
 > - Don't change the component folder names as those are the files being imported into the tests.
 > - **Do not remove the pre-filled code**
